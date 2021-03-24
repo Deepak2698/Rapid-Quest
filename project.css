@@ -1,0 +1,90 @@
+.wrapper{
+    display: inline;
+}
+.myClass{
+    display: inline-block;
+    height: 150%;
+}
+.center{
+    width: 57%;
+    padding-left: 5%;
+    text-align: initial;
+    display: inline-block;
+    margin-inline-start: 0%;
+    margin-top: inherit;
+    height: 150%;
+    float: inherit;
+}
+.first{
+    width: 17%;
+    text-align: left;
+    background-color: rgb(230, 224, 224);
+    margin-inline-start: initial;
+  padding:3%;
+    height: 150%;
+    display: inline-block;
+    float:none;
+}
+.last{
+    width: 17%;
+    display: inline-block;
+    float: right;
+    height: 100%;
+    margin-top: 5%;
+   
+}
+.left-navigation{
+    width: 5%;
+    float: left;
+    margin-left: 0.5%;
+    margin-top: 0%;
+    font-size: normal;
+    font-weight: bolder;
+    text-align: center;
+    text-size-adjust: 20%;
+    display: inline-block;
+    /* width: 3%; */
+    background-color: rgb(253, 252, 252);
+    /* height: 100%; */
+    border-top-left-radius: 10%;
+    border-bottom-left-radius: 10%;
+    border: 1px solid white;
+}
+.w3-bar-item{
+    text-align:center;
+    width:100%;
+    display:block;
+    /* padding:8px 16px; */
+    /* text-align:left; */
+    border:none;
+    white-space:normal;
+    float:none;
+    outline:0;
+}
+.homeImage {
+    width: 100px;
+    height: 80px;
+    margin-left: 25px;
+    border-radius:50%;
+    display: inline-block;
+    border: 1px solid rgb(51, 44, 44);
+}
+.rightAlign{
+    text-align: center;
+    display: inline-block;
+    border-radius: 10%;
+    float: right;
+    font-size: 20px;
+}
+.Graph{
+    float: inline-end;
+    display: inline-flex;
+}
+
+.button{
+    background-color: rgb(117, 117, 214);
+    background-size: auto;
+    background-position-x: left;
+    border-radius: 10%;
+    border: 1px solid black;
+}
